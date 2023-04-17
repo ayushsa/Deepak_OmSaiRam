@@ -11,9 +11,10 @@
         <version>1.0.0</version>
     </parent>
 
-    <artifactId>osl-bpa-api</artifactId>
-    <name>osl-bpa-api</name>
-    <description>osl-bpa-api</description>
+    <artifactId>osl-controller</artifactId>
+    <groupId>org.osl.controller</groupId>
+    <name>osl-controller</name>
+    <description>osl-controller</description>
     <url>http://projects.spring.io/spring-boot/</url>
     <packaging>jar</packaging>
 
